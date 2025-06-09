@@ -21,4 +21,4 @@ Uma ferramenta simples e funcional para auxiliar na organização do dia a dia!
 2. Execute o script no terminal:
 
 ```bash
-python lista_de_tarefas.py
+python projeto_final.py
